@@ -11,6 +11,8 @@ Pre-final year student at NIT Silchar<br>Currently exploring new technologies an
 ![](https://github-readme-stats.vercel.app/api?username=adityaji06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adityaji06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaji06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/adityaji06?theme=dark&font=Michroma)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaji06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
